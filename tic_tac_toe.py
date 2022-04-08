@@ -1,5 +1,5 @@
 #This is the tic tac toe assignment for week 1 of programming with classes. 
-#Authors: Dawson Packer, 
+#Author: Dawson Packer 
 
 def main(): 
     play_game()
